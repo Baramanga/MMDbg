@@ -16,3 +16,8 @@ https://ai3d.booth.pm/items/3802350
 
 TaroTaro (Taro²)
 https://bowlroll.net/file/243036
+
+Effect inspiration
+
+The Soda Wave
+https://www.youtube.com/watch?v=bNN3ToYkBeA
