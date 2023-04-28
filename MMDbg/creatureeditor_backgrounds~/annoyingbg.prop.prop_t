@@ -1,5 +1,5 @@
 key editorBGEntryEffect editor_annoying_mode_entry
-key editorBGLighting CreatureEditor
+key editorBGLighting annoyinglights
 int32 editorBGOrder 105
 key editorBGThumbNail annoyingroomthumb
 uint32 editorDaisType hash(rock)
