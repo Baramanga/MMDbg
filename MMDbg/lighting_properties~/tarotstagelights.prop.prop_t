@@ -1,28 +1,30 @@
 bool cameraSpaceLighting false
-float exposure 0.35
-colorRGB lightFill1Color (0.7, 0.9, 1)
-vector3 lightFill1Dir (0, 0.5, 0)
-float lightFill1Strength 1
-colorRGB lightFill2Color (0.4, 0.8, 0.9)
-vector3 lightFill2Dir (0, 0.5, 0)
-float lightFill2Strength 0.75
-colorRGB lightSkyColor (0.9, 1, 1)
-vector3 lightSkyDir (0, -0.5, 0)
-float lightSkyStrength 1
-colorRGB lightSunColor (0.7, 0.9, 1)
-vector3 lightSunDir (0, 0.5, 0)
-float lightSunStrength 0.75
+float exposure 0.4
+colorRGB lightFill1Color (0.9, 0.9, 1)
+vector3 lightFill1Dir (1, -1, -1)
+float lightFill1Strength 0
+colorRGB lightFill2Color (0.9, 0.9, 1)
+vector3 lightFill2Dir (-1, 0, -1)
+float lightFill2Strength 0
+colorRGB lightSkyColor (1, 0.9, 0.9)
+vector3 lightSkyDir (0, 1, 1)
+float lightSkyStrength 0
+colorRGB lightSunColor (1, 0.9, 0.9)
+vector3 lightSunDir (0, 0, 1)
+float lightSunStrength 0
 vector4s shAreaLights
-	(1, 0.96, 0.95, 1)
-	(-0.2, -0.2, 1, 0.65)
-	(1, 0.96, 0.95, 0.5)
-	(0.5, 1, 0.75, 0.2)
-	(0.84, 0.93, 1, 0.5)
-	(1, -0.75, -0.75, 0.2)
-	(0.84, 0.93, 1, 0.5)
-	(1, 0.5, -0.75, 0.2)
+	(1, 1, 1, 1)
+	(-1, 0, 0, 0)
+	(1, 1, 1, 1)
+	(1, 0, 0, 0)
+	(1, 1, 1, 1)
+	(0, -1, 0, 0)
+	(1, 1, 1, 1)
+	(0, 1, 0, 0)
+	(1, 1, 1, 1)
+	(0, 0, 1, 0)
 end
-colorRGB shAreaLightsScale (0.7, 0.8, 0.9)
+colorRGB shAreaLightsScale (1, 1, 1)
 vector3 shAreaLightsZRM (0, 0, 0)
 colorRGBs shCoeffs
 	(2.3880501, 2.3117001, 2.1092601)
@@ -51,12 +53,12 @@ colorRGBs shCoeffs
 	(-0.193725, -0.14193, -0.0892716)
 	(0.374609, 0.318533, 0.195933)
 end
-colorRGB shCoeffsScale (0.2, 0.2, 0.2)
+colorRGB shCoeffsScale (0, 0, 0)
 vector3s shHemiLight
-	(0.75, 0.75, 1)
-	(0.65, 0.5, 0.3)
+	(0, 0, 1)
+	(0, 0, -1)
 end
-colorRGB shHemiLightScale (0.3, 0.4, 0.4)
+colorRGB shHemiLightScale (0.3, 0.3, 0.3)
 vector3 shHemiLightZRM (0, 0, 0)
 vector2 shadowCameraRange (5, 12)
 floats shadowCasterDistance
