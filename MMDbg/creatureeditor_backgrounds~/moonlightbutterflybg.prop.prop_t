@@ -1,5 +1,5 @@
 key editorBGEntryEffect editor_moonlightbutterfly_mode_entry
-key editorBGLighting CreatureEditor
+key editorBGLighting genericcustomlights
 int32 editorBGOrder 102
 key editorBGThumbNail moonlightbutterflyroomthumb
 uint32 editorDaisType hash(rock)
