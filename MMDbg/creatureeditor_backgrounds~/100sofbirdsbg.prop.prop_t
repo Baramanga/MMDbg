@@ -1,5 +1,5 @@
 key editorBGEntryEffect editor_100sofbirds_mode_entry
-key editorBGLighting CreatureEditor
+key editorBGLighting genericcustomlights
 int32 editorBGOrder 100
 key editorBGThumbNail 100sofbirdsroomthumb
 uint32 editorDaisType hash(rock)

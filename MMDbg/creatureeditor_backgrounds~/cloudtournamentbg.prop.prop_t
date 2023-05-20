@@ -1,5 +1,5 @@
 key editorBGEntryEffect editor_cloudtournament_mode_entry
-key editorBGLighting CreatureEditor
+key editorBGLighting cloudtournamentlights
 int32 editorBGOrder 101
 key editorBGThumbNail cloudtournamentroomthumb
 uint32 editorDaisType hash(rock)
