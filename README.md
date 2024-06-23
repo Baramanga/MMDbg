@@ -1,5 +1,5 @@
 # MMDbg
-Collaboration Spore background mod between ramonekemono666 and THEdragon
+Collaboration Spore background mod between ramonekemono666 and THEdragon. Includes 7 MMD backgrounds and 4 empty black backgrounds with different lighting to test out dance animations! Works very well with ReShade
 
 Checkout the dance animations that go with this mod! https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball
 
