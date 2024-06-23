@@ -1,0 +1,6 @@
+key editorBGEntryEffect MMD_editor_null_mode_entry_custom2
+key editorBGLighting genericcustomlights
+int32 editorBGOrder 98
+key editorBGThumbNail blackbg
+#uint32 editorDaisType hash(rock)
+key editorTestEnvironmentModel CE_test_mode_collision_terrain

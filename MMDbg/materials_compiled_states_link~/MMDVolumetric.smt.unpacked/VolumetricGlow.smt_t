@@ -1,0 +1,33 @@
+compiledState state-61
+	shaderID 0x700000C6
+
+	flags1 0x4
+	flags3 0x80000
+
+	vertexDescription -field_4 0x15b55b0
+		element position D3DDECLTYPE_FLOAT3
+		element normal D3DDECLTYPE_DEC3N
+		element color D3DDECLTYPE_D3DCOLOR
+		element color1 D3DDECLTYPE_D3DCOLOR
+		element texcoord1 D3DDECLTYPE_FLOAT2
+	end
+
+	statesGroup 0
+		renderState D3DRS_ZENABLE D3DZB_TRUE
+		renderState D3DRS_ZWRITEENABLE FALSE
+		renderState D3DRS_SRCBLEND D3DBLEND_SRCALPHA
+		renderState D3DRS_DESTBLEND D3DBLEND_ONE
+		renderState D3DRS_ALPHABLENDENABLE TRUE
+	end
+	statesGroup 5
+		renderState D3DRS_BLENDOP D3DBLENDOP_ADD
+	end
+
+	textureSlot 0
+		samplerState D3DSAMP_MAGFILTER D3DTEXF_LINEAR
+		samplerState D3DSAMP_MINFILTER D3DTEXF_LINEAR
+		samplerState D3DSAMP_MIPFILTER D3DTEXF_LINEAR
+	end
+end
+
+material VolumetricGlow -states state-61 -textures center_glow_textureMap

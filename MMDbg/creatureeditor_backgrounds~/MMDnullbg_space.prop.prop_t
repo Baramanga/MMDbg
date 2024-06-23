@@ -1,0 +1,6 @@
+key editorBGEntryEffect MMD_editor_null_mode_entry_custom3
+key editorBGLighting CreatureEditorSpaceBackground
+int32 editorBGOrder 99
+key editorBGThumbNail blackbg
+
+key editorTestEnvironmentModel CE_test_mode_collision_terrain
