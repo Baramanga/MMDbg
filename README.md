@@ -41,3 +41,9 @@ Effect inspiration:
 The Soda Wave
 
 https://www.youtube.com/watch?v=bNN3ToYkBeA
+
+Thanks to the amazing @i-am-thedragon for her tireless works with importing, adjusting and creating the textures and meshes used in this project! Follow her here for her other projects and art!
+
+https://github.com/I-am-thedragon/
+
+https://i-am-thedragon.tumblr.com/
