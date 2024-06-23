@@ -1,6 +1,8 @@
 # MMDbg
 Collaboration Spore background mod between ramonekemono666 and THEdragon
 
+Checkout the dance animations that go with this mod! https://github.com/Baramanga/Ramone-Kemono-s-MMD-Drag-Ball
+
 ![SporeApp 2024-06-22 22-13-07](https://github.com/Baramanga/MMDbg/assets/71797097/b483b8e4-485d-4b2b-83b4-fc53a37cee86)
 ![SporeApp 2024-06-22 22-14-25](https://github.com/Baramanga/MMDbg/assets/71797097/3b20dc38-a47b-47e5-8a9c-8fa48b9d92c0)
 ![SporeApp 2024-06-22 22-15-55](https://github.com/Baramanga/MMDbg/assets/71797097/3c42c031-60c3-4fff-832b-ea77066a855c)
