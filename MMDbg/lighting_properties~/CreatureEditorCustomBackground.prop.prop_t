@@ -1,0 +1,13 @@
+key parent CreatureEditor_Altered.prop
+floats shadowCasterDistance
+	10
+end
+floats shadowDepthRange
+	6
+end
+floats shadowScaleCurve
+	60
+end
+floats shadowStrengthCurve
+	0.3
+end
