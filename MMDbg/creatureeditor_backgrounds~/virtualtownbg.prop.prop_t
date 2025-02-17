@@ -1,5 +1,5 @@
 key editorBGEntryEffect editor_virtualtown_mode_entry
-key editorBGLighting CreatureEditorCustomBackground
+key editorBGLighting CreatureEditorDefaultBackground#CreatureEditorCustomBackground
 int32 editorBGOrder 104
 key editorBGThumbNail virtualtownroomthumb
 uint32 editorDaisType hash(rock)
